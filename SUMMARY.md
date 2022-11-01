@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Git](README.md)
+  * [Page 5](git/page-5/README.md)
+    * [Page 6](git/page-5/page-6.md)
 
 ## Group 1
 
